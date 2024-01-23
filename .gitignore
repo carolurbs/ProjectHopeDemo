@@ -13,3 +13,7 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/ThirdPersonBP/Maps/DemoGame.umap
+Content/ModSci_Engineer/Maps/Example_Stationary_2.umap
+Content/ModSci_Engineer/Maps/Example_Stationary_2_BuiltData.uasset
+Content/ModSci_Engineer/Maps/Example_Stationary_BuiltData.uasset
+Content/ModSci_Engineer/Maps/Overview.umap
