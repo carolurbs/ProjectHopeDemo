@@ -23,6 +23,10 @@
 		{
 			"Name": "RigLogic",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
